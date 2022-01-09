@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/AiSample/finalreport/0.MainMenu/Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
